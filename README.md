@@ -1,2 +1,2 @@
-# Kubernetes201
-Pluralsight Kubernetes 201 Project Case Study
+# Spring Boot Micro-services on Kubernetes
+## github.com/rathoremayank
